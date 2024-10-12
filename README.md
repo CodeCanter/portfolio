@@ -1,6 +1,3 @@
-# portfolio
-codecanter.github.io/portfolio
-
 # Unity 3D Developer
 
 ### Own Projects
