@@ -9,4 +9,6 @@ aaa @ bbb
 ### Work Experience
 AIDAR
 
+/Tracker.avi
+
 https://github.com/CodeCanter/main/tracker.avi
