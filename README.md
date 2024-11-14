@@ -1,10 +1,12 @@
-# Unity 3D Developer
+# Unity Developer
 
-### Own Projects
-aaa @ bbb
-- aa
-- aa
-- cc
+### Projekty własne
+**SaberTrainingCourse**
+Symulator władania szablą konno, opracowany na gogle Meta Quest 3, wykorzystując tryb MR.
+- umożliwia trening władania szablą konno lub stacjonarnie (symulowane przemieszczanie względem pozorników)
+- ocenia istotne parametry władania bronią - poprawność prowadzenia głowni, kąt cięcia, siła cięcia, część szabli wykonującej cięcie
+- rozwiązano problem ograniczenia przemieszczania w przestrzeni 5 x 5 m oraz wykrywanie kolizji szybko przemieszczających się obiektów
+- makieta szabli zbliżona masą oraz wyważeniem do kontraktowej wz. 34, zwiększa realizm ćwiczenia
 
 ### Work Experience
 AIDAR
