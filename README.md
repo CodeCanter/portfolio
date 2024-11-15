@@ -13,4 +13,5 @@ AIDAR
 https://github.com/CodeCanter/portfolio/commit/741362c5d14b24d59f9369fa5d51b57f67aea574#diff-081936d0d3f3683b7546a3f241f2611e9508db74995643fa36867b2a3aa02187
 
 https://github.com/CodeCanter/main/Tracker.avi
-![vxyiV](https://github.com/user-attachments/assets/2210b523-4d1a-4bab-9d96-067ae41b3359)
+
+![08_dynamic_try_cabbage](https://github.com/user-attachments/assets/f573b059-7328-4fff-aa7b-cc6cd5ac3f5b)
