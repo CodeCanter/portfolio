@@ -1,17 +1,15 @@
-**[`<- Projekty własne`](https://codecanter.github.io/portfolio/)**
+**[`< Projekty własne`](https://codecanter.github.io/portfolio/)**
 
-**Demonstrator wykorzystania VR w szkoleniu żołnierza piechoty** (06.2019 - 09.2022)
-![1](https://github.com/user-attachments/assets/cb28cf0a-b663-49de-9c4e-3f03c269c62c)
+**Symulator plutonu moździerzy M-120** (06.2013 - 04.2016)
 
-Projekt w ramach rozbudowy bazy laboratoryjnej Zakładu Symulacji Taktycznych.
+Opracowywany w trakcie służby w 15 Giżyckiej Brygadzie Zmechanizowanej. Przeznaczony do zwiększenia realizmu i atrakcyjności szkolenia plutonu moździerzy, bez konieczności wykorzystania sprzętu bojowego i amunicji.
 
 Założenia projektu:
-- sprawdzenie wpływu wykorzystania gogli VR, bieżni i modelu karabinka na realizm szkolenia żołnierza piechoty w środowisku symulacji wirtualnej
-- umożliwienie treningu czynności manualnych na broni, np. zgrywania przyrządów celowniczych i pracy na spuście
-- umożliwienie instruktorowi lepszego nadzoru nad czynnościami realizowanymi przez szkolonego
-- wykorzystanie uproszczonego sposobu modelowania toru lotu pocisku (współczynniki dobrane eksperymentalnie) – model odpowiada tabelom strzelniczym na dystansie ognia skutecznego
-- odwzorowanie działania manipulatorów broni (5,56mm kbs wz. 96 "Beryl") – spustu, przełącznika rodzaju ognia, bezpiecznika i nastawy celownika
+- umożliwienie szkolenia drużyn dowodzenia w zakresie wykrywania, rozpoznawania i określania położenia celów oraz prowadzenia wstrzeliwania
+- umożliwienie doskonalenia obsług w zakresie ukierunkowania moździerza, obliczania i wprowadzania nastaw, prowadzenia notatki dowódcy działonu oraz prowadzenia ognia półpośredniego
+- umożliwienie prowadzenia treningów kierowania ognia plutonu moździerzy – jednoczesne szkolenie drużyny dowodzenia i rzutu ogniowego
+- zastosowanie uproszczonego sposobu modelowania toru lotu pocisku – model odpowiada tabelom strzelniczym (TABELE STRZELNICZE do 120mm MOŹDZIERZY wz. 1938 i wz. 1943) dla wszystkich ładunków, na wszystkich donośnościach, dla wszystkich przewidzianych warunków strzelania
 
-Zastosowane technologie: Unity 3D, program CAD, Arduino, druk 3D
+Zastosowane technologie: Unity 3D, program CAD, Dark Rift Networking
 
-**[`<- Projekty własne`](https://codecanter.github.io/portfolio/)**
+**[`< Projekty własne`](https://codecanter.github.io/portfolio/)**
