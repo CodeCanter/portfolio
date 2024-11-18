@@ -1,3 +1,5 @@
+**[`<- Projekty własne`](https://codecanter.github.io/portfolio/)**
+
 **Demonstrator wykorzystania VR w szkoleniu żołnierza piechoty** (06.2019 - 09.2022)
 ![1](https://github.com/user-attachments/assets/cb28cf0a-b663-49de-9c4e-3f03c269c62c)
 
