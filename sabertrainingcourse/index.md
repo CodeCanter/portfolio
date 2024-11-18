@@ -20,7 +20,7 @@ Szybkie wprowadzenie:
 2.  Dosiądź wierzchowca
 ![02_mont_a_horse](https://github.com/user-attachments/assets/942f44f6-e050-4387-86e4-b159830ab759)
 
-3.  Nie zapomnij "uiścić opłaty"
+3.  "Wrzuć monetę"
 ![03_insert_carrot_coin](https://github.com/user-attachments/assets/6462cfb9-95eb-42d6-86de-15b29b6c3662)
 
 4.  Dobądź szabli
