@@ -1,6 +1,7 @@
 **[`< Projekty własne`](https://codecanter.github.io/portfolio/)**
 
 **Symulator plutonu moździerzy M-120** (06.2013 - 04.2016)
+![Wycelowanie_M120](https://github.com/user-attachments/assets/0942f580-8131-49ec-8e66-bf1a83944e9b)
 
 Opracowywany w trakcie służby w 15 Giżyckiej Brygadzie Zmechanizowanej. Przeznaczony do zwiększenia realizmu i atrakcyjności szkolenia plutonu moździerzy, bez konieczności wykorzystania sprzętu bojowego i amunicji.
 
@@ -20,9 +21,6 @@ Definiowanie warunków strzelania
 
 Praca na celowniku MPM-44
 ![celownik](https://github.com/user-attachments/assets/b2a2bcd5-343a-499e-803a-32f9c620bf28)
-
-Wycelowanie moździerza
-![Wycelowanie_M120](https://github.com/user-attachments/assets/0942f580-8131-49ec-8e66-bf1a83944e9b)
 
 Obserwacja wstrzeliwania przy pomocy lornetki LP 7x45
 ![wstrzeliwanie](https://github.com/user-attachments/assets/3677a369-98b0-4498-864d-eee81df08365)
