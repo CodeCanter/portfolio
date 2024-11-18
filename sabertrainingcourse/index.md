@@ -32,8 +32,8 @@ Szybkie wprowadzenie:
 6.  Ćwicz do pełnego opanowania
 ![06_try_cabbage_canter](https://github.com/user-attachments/assets/ce5fde06-db72-440e-a638-7d9491cb3932)   ![09_stationary_fast_targets](https://github.com/user-attachments/assets/dd290a78-d265-4835-8b11-6331cfa5a8d0)
 
-Dotychczas odało się rozwiązać główne problemy:
-- ograniczenie przemieszczania się w goglach Quest 3 w przestrzeni o wymiarach 5 x 5m (komunikat "you've moved too far") poprzez wyłączenie "Physical space features"
-- gubienie śledzenia - włączenie trybu "Travel mode"
+Zidentyfikowane problemy / ograniczenia:
+- ograniczenie przemieszczania się w goglach Quest 3 w przestrzeni o wymiarach 5 x 5m (komunikat "You've moved too far") - problem rozwiązany poprzez wyłączenie "Physical space features"
+- gubienie śledzenia przy poruszaniu się na większej przestrzeni - problem rozwiązany poprzez włączenie trybu "Travel mode"
 ![_tracking_error](https://github.com/user-attachments/assets/eef501c6-4e5c-4d55-990d-197a521c7aaa)
 
