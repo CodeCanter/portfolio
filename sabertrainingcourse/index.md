@@ -1,5 +1,7 @@
 **SaberTrainingCourse** (lipiec 2024 - obecnie)
+
 ![06_try_cabbage_canter](https://github.com/user-attachments/assets/ce5fde06-db72-440e-a638-7d9491cb3932)
+
 Symulator władania szablą konno, opracowany na gogle Meta Quest 3, tryb MR.
 Pomysł na projekt zrodził się ok. 2018r. i był jednym z pierwszych, który miał mnie wprowadzić w tajniki rozwijania oprogramowania na potrzeby technologii VR, a przy tym być ciekawym narzędziem wspomagającym rozwój osobistych zainteresowań. Założenia również były inne, głównie ze względu na ograniczenia techniczne - tylko tryb stacjonarny.
 Obecnie projekt jest na etapie wersji umożliwiającej weryfikację poprawność przyjętych założeń i najpewniej doczeka się kontynuacji.
