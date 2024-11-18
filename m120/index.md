@@ -12,4 +12,22 @@ Założenia projektu:
 
 Zastosowane technologie: Unity 3D, program CAD, Dark Rift Networking
 
+Schemat propozycji wykorzystania symulatora w jednoczesnym szkoleniu drużyny dowodzenia (sala komputerowa) oraz rzutu ogniowego (przykoszarowy plac ćwiczeń - działanie na sprzęcie bojowym, bez wykorzystania amunicji)
+![schemat](https://github.com/user-attachments/assets/806c4449-63cb-4cc9-827b-2a129ffab246)
+
+Definiowanie warunków strzelania
+![definiowanie_warunków_strzelania](https://github.com/user-attachments/assets/6e8c5055-e7d6-4be9-8631-8ad81f509f33)
+
+Praca na celowniku MPM-44
+![celownik](https://github.com/user-attachments/assets/b2a2bcd5-343a-499e-803a-32f9c620bf28)
+
+Wycelowanie moździerza
+![Wycelowanie_M120](https://github.com/user-attachments/assets/0942f580-8131-49ec-8e66-bf1a83944e9b)
+
+Obserwacja wstrzeliwania przy pomocy lornetki LP 7x45
+![wstrzeliwanie](https://github.com/user-attachments/assets/3677a369-98b0-4498-864d-eee81df08365)
+
+Obserwacja ognia skutecznego
+![ogień_skuteczny](https://github.com/user-attachments/assets/7029ca27-4805-4f2b-a7df-a1cfe98c5d7b)
+
 **[`< Projekty własne`](https://codecanter.github.io/portfolio/)**
