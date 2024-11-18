@@ -13,3 +13,5 @@ Założenia projektu:
 - odwzorowanie działania manipulatorów broni (5,56mm kbs wz. 96 "Beryl") – spustu, przełącznika rodzaju ognia, bezpiecznika i nastawy celownika
 
 Zastosowane technologie: Unity 3D, program CAD, Arduino, druk 3D
+
+**[`<- Projekty własne`](https://codecanter.github.io/portfolio/)**
