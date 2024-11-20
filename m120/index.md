@@ -21,8 +21,7 @@ Definiowanie warunków strzelania
 
 Praca na celowniku MPM-44
 
-
-https://github.com/user-attachments/assets/f0491b4f-e39e-477c-8e62-2d859d60e235
+[https://github.com/user-attachments/assets/f0491b4f-e39e-477c-8e62-2d859d60e235](https://github.com/user-attachments/assets/f0491b4f-e39e-477c-8e62-2d859d60e235)
 
 
 Obserwacja wstrzeliwania przy pomocy lornetki LP 7x45
