@@ -20,7 +20,10 @@ Definiowanie warunków strzelania
 ![definiowanie_warunków_strzelania](https://github.com/user-attachments/assets/6e8c5055-e7d6-4be9-8631-8ad81f509f33)
 
 Praca na celowniku MPM-44
-![celownik](https://github.com/user-attachments/assets/b2a2bcd5-343a-499e-803a-32f9c620bf28)
+
+
+https://github.com/user-attachments/assets/f0491b4f-e39e-477c-8e62-2d859d60e235
+
 
 Obserwacja wstrzeliwania przy pomocy lornetki LP 7x45
 ![wstrzeliwanie](https://github.com/user-attachments/assets/3677a369-98b0-4498-864d-eee81df08365)
