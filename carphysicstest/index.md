@@ -14,7 +14,8 @@ zawieszenie pojazdu opracowano w oparciu o Physics.SphereCast
     - siła od kół napędowych (uwzględniono siłę tarcia i możliwość utraty przyczepności opony w trakcie przyspieszania)
     - siła hamowania (uwzględniono możliwość utraty przyczepności opony, obecnie bez symulacji systemu ABS)
     - siły oporu tocznego
-    - siły przeciwdziałające sile odśrodkowej w trakcie zmiany kierunku ruchu pojazdy (uwzględniono możliwość uślizgu pojazdu)
+- siły przeciwdziałające sile odśrodkowej w trakcie zmiany kierunku ruchu pojazdy (uwzględniono możliwość uślizgu pojazdu)
 odtworzenie charakterystyk przyjętego pojazdu - masa, współczynniki oporu, charakterystyka silnika, droga hamowania, itp.
+- model opracowany z myślą o sterowaniu przy użyciu kierownicy, pedałów i skrzyni biegów (automatycznej, sekwencyjnej lub manualnej)
 
 **[`< Projekty własne`](https://codecanter.github.io/portfolio/)**
