@@ -5,6 +5,8 @@
 
 [`CarPhysicsTest`](https://codecanter.github.io/portfolio/carphysicstest/)
 
+Symulator samochodu, w którym nacisk położono na odwzorowanie fizyki pojazdu (uwzględnienie głównych sił)...
+
 ---
 
 [![1M](https://github.com/user-attachments/assets/3760bb5b-af05-481f-a980-e05139a9a171)](https://codecanter.github.io/portfolio/berylvr/)
