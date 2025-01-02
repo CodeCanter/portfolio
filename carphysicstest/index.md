@@ -4,6 +4,8 @@
 
 **CarPhysicsTest** (listopad 2024 - obecnie)
 
+**[`> Repozytorium`](https://github.com/CodeCanter/CarPhysicsTest_Public)**
+
 Symulator samochodu, w którym nacisk położono na odwzorowanie fizyki pojazdu (uwzględnienie głównych sił). Opracowany model może być bazą dla symulatora nauki/doskonalenia jazdy.
 
 Założenia projektu:
