@@ -14,6 +14,7 @@ Project assumptions:
 Technologies: Unity 3D, CAD, Dark Rift Networking
 
 Diagram of the proposed use of the simulator in the simultaneous training of the Fire Observer team (computer room) and the Mortar Crews (barracks training ground - operation with combat equipment, without the use of ammunition)
+
 ![schemat](https://github.com/user-attachments/assets/806c4449-63cb-4cc9-827b-2a129ffab246)
 
 Defining firing conditions
