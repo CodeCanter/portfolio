@@ -1,17 +1,17 @@
-**[`< Projekty własne`](https://codecanter.github.io/portfolio/)**
+**[`< Projects`](https://codecanter.github.io/portfolio/en/)**
 
-**Demonstrator wykorzystania VR w szkoleniu żołnierza piechoty** (06.2019 - 09.2022)
+**VR Demonstrator for Infantry Training** (06.2019 - 09.2022)
 ![1](https://github.com/user-attachments/assets/cb28cf0a-b663-49de-9c4e-3f03c269c62c)
 
-Projekt w ramach rozbudowy bazy laboratoryjnej Zakładu Symulacji Taktycznych.
+A project aimed at expanding the laboratory base of the Tactical Simulation Branche.
 
-Założenia projektu:
-- sprawdzenie wpływu wykorzystania gogli VR, bieżni i modelu karabinka na realizm szkolenia żołnierza piechoty w środowisku symulacji wirtualnej
-- umożliwienie treningu czynności manualnych na broni, np. zgrywania przyrządów celowniczych i pracy na spuście
-- umożliwienie instruktorowi lepszego nadzoru nad czynnościami realizowanymi przez szkolonego
-- wykorzystanie uproszczonego sposobu modelowania toru lotu pocisku (współczynniki dobrane eksperymentalnie) – model odpowiada tabelom strzelniczym na dystansie ognia skutecznego
-- odwzorowanie działania manipulatorów broni (5,56mm kbs wz. 96 "Beryl") – spustu, przełącznika rodzaju ognia, bezpiecznika i nastawy celownika
+Project assumptions:
+- checking the impact of using VR goggles, VR treadmill and a rifle model (equipped with a microcontroller and sensors) on the realism of infantryman training in a virtual simulation environment
+- enabling training of manual operations on the weapon, e.g. matching sights and pulling the trigger
+- enabling the instructor to better supervise the activities performed by the trainee
+- using a simplified method of modelling the projectile's flight path (coefficients selected experimentally) - the model corresponds to shooting tables at the effective fire range
+- mapping the behaviour of weapon manipulators (5.56 mm kbs wz. 96 "Beryl") - trigger, fire type switch, safety catch and sight setting
 
-Zastosowane technologie: Unity 3D, program CAD, Arduino, druk 3D
+Technologies: Unity 3D, CAD, microcontroller platform, 3D printing
 
-**[`< Projekty własne`](https://codecanter.github.io/portfolio/)**
+**[`< Projects`](https://codecanter.github.io/portfolio/en/)**
